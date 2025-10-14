@@ -1,0 +1,26 @@
+{
+  "own_company_info": {
+    "name": "あなたの会社名",
+    "tel": ["0000000000"],
+    "fax": ["0000000001", "0000000002"],
+    "ignore_variants": [
+      "あなたの会社名の略称1",
+      "あなたの会社名の略称2",
+      "あなたの会社名株式会社",
+      "あなたの会社名㈱",
+      "あなたの会社名（株）"
+    ]
+  },
+  "paths": {
+    "company_info_csv": "company_info.CSV",
+    "tesseract_cmd": "tesseract_bin/tesseract.exe",
+    "poppler_bin": "poppler/bin"
+  },
+  "processing_settings": {
+    "ocr_dpi": 200,
+    "save_dpi": 150,
+    "save_resolution": 72.0,
+    "save_quality": 70,
+    "max_workers": 4
+  }
+}

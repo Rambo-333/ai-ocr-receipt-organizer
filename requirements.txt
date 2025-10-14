@@ -1,0 +1,8 @@
+PySide6
+easyocr
+pdf2image
+numpy
+pandas
+opencv-python       # ← cv2 に対応するパッケージ
+pillow              # ← PIL はこれ
+pytesseract
