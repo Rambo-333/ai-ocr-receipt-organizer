@@ -233,7 +233,7 @@ for text in results:
 **Rambo**
 - GitHub: [@Rambo-333](https://github.com/Rambo-333)
 
-## 🙏 謝辞
+## 📝 このプロジェクトについて
 
 本プロジェクトは総務部の業務効率化要請に応えて開発されました。以下のスキルを証明します:
 
