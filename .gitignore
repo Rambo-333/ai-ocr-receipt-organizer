@@ -19,6 +19,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# IDE設定
+# IDE / AI tools
 .vscode/
 .idea/
+.claude/
